@@ -6,6 +6,6 @@ src/utils.py:20: [C0116(missing-function-docstring), cubic] Missing function or 
 src/utils.py:20: [C0103(invalid-name), cubic] Argument name "a" doesn't conform to snake_case naming style
 src/utils.py:24: [C0116(missing-function-docstring), say_hello] Missing function or method docstring
 
-------------------------------------------------------------------
-Your code has been rated at 7.14/10 (previous run: 6.67/10, +0.48)
+-----------------------------------
+Your code has been rated at 7.14/10
 
